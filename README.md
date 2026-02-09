@@ -7,6 +7,6 @@ ASS-4.5:https://github.com/2303A52397/AI-Assistant-2397/blob/main/AI%20ASSISTED%
 ASS-5.1:https://github.com/2303A52397/AI-Assistant-2397/blob/main/ASSIGNMENT%205.1(2397).pdf
 Ass-6.5:https://github.com/2303A52397/AI-Assistant-2397/blob/main/ASSIGNMENT-6.5(2397).pdf
 Ass-7.1:https://github.com/2303A52397/AI-Assistant-2397/blob/main/2303A52397_Assignment7_1.ipynb
-Ass-8.5:https://github.com/2303A52397/AI-Assistant-2397/blob/main/2303A52397_Assignment%208.5.pdf
+Ass-8.5:https://github.com/2303A52397/AI-Assistant-2397/blob/main/2303A52397_Assignment_8_5.ipynb
 Ass-9.1:https://github.com/2303A52397/AI-Assistant-2397/blob/main/2303A52397_Assignment%209.1.pdf
 Ass-10.5:https://github.com/2303A52397/AI-Assistant-2397/blob/main/2303A52397_Assignment_10_5.ipynb
